@@ -9,7 +9,7 @@
    - python -m venv c:\path\to\myenv. 
 
 2) Activate virtual environment.
-  - yourvirtualenv/Scripts/activate
+   - yourvirtualenv/Scripts/activate
 
 3) Install packages
    - pip install -r requirements.txt or 
