@@ -16,10 +16,10 @@
    - pip3 install -r requirements.txt 
 
 4) Django commands
-  - python manage.py makemigrations
-  - python manage.py migrate
-  - python manage.py runserver
+   - python manage.py makemigrations
+   - python manage.py migrate
+   - python manage.py runserver
 
 5) React JS commands
-  - cd frontend
-  - npm start 
+   - cd frontend
+   - npm start 
